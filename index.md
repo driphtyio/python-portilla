@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+2022 Complete Python Bootcamp From Zero to Hero in Python by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
 
-You can use the [editor on GitHub](https://github.com/driphtyio/python-portilla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Study guide 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Section 1: Course Overview
+1. Auto-Welcome Message
+2. Course Introduction
+3. Course Curriculum Overview
+4. Why Python?
+5. Course FAQs
 
-### Markdown
+# Section 2: Python Setup
+6. Command Line Basics
+7. Installing Python (Step by Step)
+8. Running Python Code
+9. Getting Notebooks and the Course Material [Github Link for Notebooks](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+10. Git and Github Overview - Optional [Resources for Learning Github])https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/driphtyio/python-portilla/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Section 3: Python Object and Data Structure Basics
+11. Introduction to Python Data Types
+12. Python Numbers
+13. Numbers - FAQ
+14. 
