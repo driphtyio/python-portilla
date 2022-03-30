@@ -1,4 +1,4 @@
-2022 Complete Python Bootcamp From Zero to Hero in Python by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
+[Jose Portilla](https://www.udemy.com/user/joseportilla/) 2022 Complete Python Bootcamp From Zero to Hero in Python
 
 Study guide 
 
@@ -18,12 +18,12 @@ Study guide
 
 # Section 3: Python Object and Data Structure Basics
 11. Introduction to Python Data Types [W3Schools Data Type Tutorial](https://www.w3schools.com/python/python_datatypes.asp), [GeeksforGeek Data Type Tutorial](https://www.geeksforgeeks.org/python-data-types/)
-12. Python Numbers
+12. Python Numbers [RealPython Python Numbers Tutorial](https://realpython.com/python-numbers/#:~:text=Python%20has%20three%20built%2Din,numbers%20in%20a%20later%20section.)
 13. Numbers - FAQ
 14. Variable Assignments
-15. Introduction to Strings
+15. Introduction to Strings [Programiz String Tutorial](https://www.programiz.com/python-programming/string)
 16. Indexing and Slicing with Strings
-17. String Properties and Methods
+17. String Properties and Methods [Programiz String Method Tutorial](https://www.programiz.com/python-programming/methods/string)
 18. Strings - FAQ
 19. Print Formatting with Strings
 20. Print Formatting FAQs
@@ -40,3 +40,15 @@ Study guide
 31. Python Objects and Data Structures Assessment Test Solutions
 
 # Section 4: Python Comparison Operators
+32. Comparison Operators in Python
+33. Chaining Comparison Operators in Python with Logical Operators
+
+# Section 5: Python Statements
+34. If Elif and Else Statements in Python
+35. For Loops in Python
+36. While Loops in Python
+37. Useful Operators in Python
+38. List Comprehensions in Python
+39. Python Statements Test Overview
+40. Python Statements Test Solutions
+
