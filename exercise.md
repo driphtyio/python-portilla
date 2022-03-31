@@ -1,4 +1,4 @@
-## Coding Exercise
+### Coding Exercise
 
 ### [[Home]](https://driphtyio.github.io/python-portilla/)
 
@@ -19,7 +19,9 @@ print ("Hello World")
 ### Coding Exercise 3: String Indexing
 
 Write a string index that returns just the letter 'r' from 'Hello World'.
+```
 For example, 'Hello World'[0] return 'H'
+```
 You should only write one line of code for this. Do not assign a variable name to the string
 ```
 'Hello World'[-3]
@@ -28,7 +30,9 @@ You should only write one line of code for this. Do not assign a variable name t
 ### Coding Exercise 4: String Slicing
 
 Use string slicing to grab the word 'ink' from inside 'tinker'
+```
 For example, 'education'[3:6] return 'cat'
+```
 Remember that when slicing you only go up to but not including the end index.
 You should only write one line of code for this. Do not assign a variable name to the string.
 ```
