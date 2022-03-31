@@ -1,6 +1,6 @@
 [Jose Portilla](https://www.udemy.com/user/joseportilla/) 2022 Complete Python Bootcamp From Zero to Hero in Python
 
-Study guide 
+[[Home]](https://driphtyio.github.io/python-portilla/) [[Exercise]](https://driphtyio.github.io/python-portilla/exercise.html)
 
 # Section 1: Course Overview
 1. Auto-Welcome Message
