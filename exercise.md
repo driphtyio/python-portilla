@@ -52,3 +52,18 @@ Your solution should be entered on one line. You can not use variable names, onl
 ```
 print('{} rules!'.format('Python'))
 ```
+### Coding Exercise 6: Lists
+
+Create a list that contrains at least one string, one integer and one float.
+
+For example:
+```
+[1, 'two', 3.14159]
+```
+Note that the order and number of items doesn't matter.
+
+The answer should just be one list on a single line. Don't assign a variable name to the list.
+
+```
+new_list = ['hello', 5, 5.5]
+```
