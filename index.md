@@ -20,9 +20,9 @@
 11. Introduction to Python Data Types [W3Schools Data Type Tutorial](https://www.w3schools.com/python/python_datatypes.asp), [GeeksforGeek Data Type Tutorial](https://www.geeksforgeeks.org/python-data-types/)
 12. Python Numbers [RealPython Python Numbers Tutorial](https://realpython.com/python-numbers/#:~:text=Python%20has%20three%20built%2Din,numbers%20in%20a%20later%20section.)
 13. Numbers - FAQ
-14. Variable Assignments
+14. Variable Assignments [Real Python Variable Tutorial](https://realpython.com/python-variables/)
 15. Introduction to Strings [Programiz String Tutorial](https://www.programiz.com/python-programming/string)
-16. Indexing and Slicing with Strings
+16. Indexing and Slicing with Strings [GeeksforGeeks Indexing and Slicing Tutorial](https://www.geeksforgeeks.org/how-to-index-and-slice-strings-in-python/),  [Digital Ocean How to Index and Slice in Python Tutorial](https://www.digitalocean.com/community/tutorials/how-to-index-and-slice-strings-in-python-3)
 17. String Properties and Methods [Programiz String Method Tutorial](https://www.programiz.com/python-programming/methods/string)
 18. Strings - FAQ
 19. Print Formatting with Strings
