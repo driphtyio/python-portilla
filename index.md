@@ -15,7 +15,7 @@
 8. Running Python Code
 9. Getting Notebooks and the Course Material 
     - [Github Link for Notebooks](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
-10.  Git and Github Overview - Optional
+10.  Git and Github Overview
     - [Resources for Learning Github](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
 # Section 3: Python Object and Data Structure Basics
@@ -29,6 +29,8 @@
     - [Real Python Variable Tutorial](https://realpython.com/python-variables/)
 16. Introduction to Strings 
     - [Programiz String Tutorial](https://www.programiz.com/python-programming/string)
+    - [Google String Tutorial](https://developers.google.com/edu/python/strings)
+    - [Google String Youtube Tutorial](https://www.youtube.com/watch?v=tKTZoB2Vjuk)
 18. Indexing and Slicing with Strings 
     - [GeeksforGeeks Indexing and Slicing Tutorial](https://www.geeksforgeeks.org/how-to-index-and-slice-strings-in-python/)
     - [Digital Ocean How to Index and Slice in Python Tutorial](https://www.digitalocean.com/community/tutorials/how-to-index-and-slice-strings-in-python-3)
@@ -41,16 +43,20 @@
     - [W3Schools String format() Method Tutorial](https://www.w3schools.com/python/ref_string_format.asp)
 25. Print Formatting FAQs
 26. Lists in Python
-27. Lists - FAQ
-28. Dictionaries in Python
-29. Dictionaries - FAQ
-30. Tuples with Python
-31. Sets in Python
-32. Booleans in Python
-33. I/O with Basics Files in Python
-34. Resources for more Basic Practice
-35. Python Objects and Data Structures Assessment Test Overview
-36. Python Objects and Data Structures Assessment Test Solutions
+    - [W3Schools Python List Tutorial](https://www.w3schools.com/python/python_lists.asp)
+    - [Programiz Python List Tutorial](https://www.programiz.com/python-programming/list)
+    - [Google Python List Tutorial](https://developers.google.com/edu/python/lists#list-methods)
+    - [Google List Youtube Tutorial](https://www.youtube.com/watch?v=EPYupizJYQI)
+28. Lists - FAQ
+29. Dictionaries in Python
+30. Dictionaries - FAQ
+31. Tuples with Python
+32. Sets in Python
+33. Booleans in Python
+34. I/O with Basics Files in Python
+35. Resources for more Basic Practice
+36. Python Objects and Data Structures Assessment Test Overview
+37. Python Objects and Data Structures Assessment Test Solutions
 
 # Section 4: Python Comparison Operators
 32. Comparison Operators in Python
