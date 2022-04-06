@@ -37,18 +37,20 @@
     - [W3Scchools String Method Tutorial](https://www.w3schools.com/python/python_ref_string.asp)
 22. Strings - FAQ
 23. Print Formatting with Strings
-24. Print Formatting FAQs
-25. Lists in Python
-26. Lists - FAQ
-27. Dictionaries in Python
-28. Dictionaries - FAQ
-29. Tuples with Python
-30. Sets in Python
-31. Booleans in Python
-32. I/O with Basics Files in Python
-33. Resources for more Basic Practice
-34. Python Objects and Data Structures Assessment Test Overview
-35. Python Objects and Data Structures Assessment Test Solutions
+    - [GeeksforGeeks Output Formatting Tutorial](https://www.geeksforgeeks.org/python-output-formatting/)
+    - [W3Schools String format() Method Tutorial](https://www.w3schools.com/python/ref_string_format.asp)
+25. Print Formatting FAQs
+26. Lists in Python
+27. Lists - FAQ
+28. Dictionaries in Python
+29. Dictionaries - FAQ
+30. Tuples with Python
+31. Sets in Python
+32. Booleans in Python
+33. I/O with Basics Files in Python
+34. Resources for more Basic Practice
+35. Python Objects and Data Structures Assessment Test Overview
+36. Python Objects and Data Structures Assessment Test Solutions
 
 # Section 4: Python Comparison Operators
 32. Comparison Operators in Python
